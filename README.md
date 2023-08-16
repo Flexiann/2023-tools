@@ -21,9 +21,9 @@ Bilgi toplama Tool'ları sunuculardan servislerin ve kullanıcıların metadatal
 | [Nmap](https://github.com/nmap/nmap)      | **C/C++** | `Linux/Windows/macOS` | A very common tool. Network host, vuln and port detector. |
 | [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)      | **Go** | `Linux/macOS` | An OSINT framework for phone numbers. |
 
-#### :lock: Password Attacks
+#### :lock: Şifre Saldırıları
 
-Crack passwords and create wordlists.
+Şifreleri kırma ve Wordlist hazırlama
 
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
@@ -41,9 +41,9 @@ Crack passwords and create wordlists.
 | ----------- |----------------|
 | [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
 
-#### :globe_with_meridians: Wireless Testing
+#### :globe_with_meridians: Wi-Fi Testing
 
-Used for intrusion detection and wifi attacks.
+Zorla giriş ve sızma tool'ları
 
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
@@ -55,7 +55,7 @@ Used for intrusion detection and wifi attacks.
 
 #### :wrench: Exploitation Tools
 
-Acesss systems and data with service-oriented exploits.
+Hizmet odaklı zaafiyetler ile sistemlere ve verilere erişme
 
 | Tool                                                    | Language   | Support               | Description                                                  |
 | ------------------------------------------------------- | ---------- | --------------------- | ------------------------------------------------------------ |
@@ -66,7 +66,8 @@ Acesss systems and data with service-oriented exploits.
 
 #### :busts_in_silhouette: Sniffing & Spoofing
 
-Listen to network traffic or fake a network entity.
+
+Ağ trafiğini izleme veya bir ağı taklit etme
 
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
@@ -76,7 +77,7 @@ Listen to network traffic or fake a network entity.
 
 #### :rocket: Web Hacking
 
-Exploit popular CMSs that are hosted online.
+Çevrimiçi olarak barındırılan popüler SCAN servisleri.
 
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
@@ -88,7 +89,7 @@ Exploit popular CMSs that are hosted online.
 
 #### :tada: Post Exploitation
 
-Exploits for after you have already gained access.
+Sisteme eriştikten sonra exploit için.
 
 | Tool        | Language           | Support  | Description    |
 | ----------- |-------------------------|----------|----------------|
