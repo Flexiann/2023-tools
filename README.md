@@ -4,7 +4,7 @@
 
 - Verilen Tool'ların kodlarını incelemeden indirmeyin, olası bir virüs sorumluluğum dışındadır.
 - İllegal durumlar için kullanma!, kullanacaksan da, Umarım ne yaptığını biliyorsundur.
-- Eğitim amaçlı kullanılmalıdır!
+- Eğitim amaçlı kullanılmalıdır!!
 
 Bilgi toplama Tool'ları sunuculardan servislerin ve kullanıcıların metadatalarını toplamaya yardımcı olur. Bir domain, IP Adresi, Telefon numarası, Mail adresi hakkında bilgiler için kullanılır.
 
