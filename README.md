@@ -1,5 +1,5 @@
 <p align="center">
-    ![](https://github.com/Flexiann/2023-tools/blob/main/Flexiann.gif)
+    <img src="[https://github.com/Flexiann/2023-tools/blob/main/Flexiann.gif]" width="40" height="40" />
 </p>
 
 
