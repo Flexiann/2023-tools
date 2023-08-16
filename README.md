@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://i.ibb.co/rpxCx28/Colorful-Blue-and-Purple-Animated-You-Tube-Outro.gif]" width="40" height="40" />
+    <img src="[https://i.ibb.co/rpxCx28/Colorful-Blue-and-Purple-Animated-You-Tube-Outro.gif]"/>
 </p>
 
 
