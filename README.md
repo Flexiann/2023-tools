@@ -1,6 +1,5 @@
 <p align="center">
     ![](https://github.com/Flexiann/2023-tools/blob/main/Flexiann.gif)
-    ![](https://github.com/Flexiann/2023-tools/blob/main/Flexiann.gif)
 </p>
 
 
