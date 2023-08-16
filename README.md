@@ -156,10 +156,3 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs.
 - [PicoCTF](https://picoctf.org/) - Provides you with fun CTF challenges of varying levels of difficulty to practice on.
 
-([Table of Contents](#table-of-contents))
-
-# License
-
-This repository is under MIT license.
-
-([Table of Contents](#table-of-contents))
