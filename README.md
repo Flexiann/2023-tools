@@ -134,7 +134,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Reddit/hacking](https://www.reddit.com/r/hacking) Discuss about hacking and web security.
 - [ax0nes](https://ax0nes.com/) Hacking, security, and software development forum.
 - [0Day.rocks on discord](https://discord.gg/WmYzJfD) Discord server about the 0day.rocks blog for technical and general InfoSec/Cyber discussions & latest news.
-- [Reddit/AskNetsec](https://www.reddit.com/r/AskNetsec/) Discuss about network security, ask professionals for advices about jobs and stuff.
+- [Reddit/AskNetsec](https://www.reddit.com/r/AskNetsec/) Discuss about network security, ask professionals for advices about jobs and stuff
 
 ## Güvenlik Tavsiyeleri
 
